@@ -1,0 +1,39 @@
+.search_style {
+  width: 50%;
+  margin: 2% 0 0 25%;
+  padding: 1%;
+  border-radius: 50px;
+  background-image: linear-gradient(white, #89cff0);
+  font-size: 20px;
+  outline: none;
+  border: solid 2px #6cb4ee;
+}
+
+.search_dropdown_style {
+  width: 50%;
+  margin: 0 0 0 25%;
+  font-size: 20px;
+}
+
+.search_dropdown_label_style {
+  padding: 1% 0 0 2%;
+}
+
+.search_dropdown_item_style {
+  border-radius: 50px;
+  background-color: #89cff0;
+  border-top: solid 0.2px white;
+}
+
+.search_dropdown_item_style:hover {
+  background-color: #6cb4ee;
+}
+
+.stores_style {
+  padding: 12% 0 12% 0;
+  background-image: linear-gradient(to bottom right, skyblue, pink);
+  border-radius: 50px;
+  box-shadow: 0px 0px 100px skyblue;
+  background-size: 100%;
+  background-position: center center;
+}
